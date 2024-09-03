@@ -1,0 +1,1 @@
+C:\Users\sbaki\OneDrive\Bureau\Souhail\Perso\microsoftRewards\virtualMachine\Scripts\activate && python C:\Users\sbaki\OneDrive\Bureau\Souhail\Perso\microsoftRewards\app.py
